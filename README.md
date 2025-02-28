@@ -1,6 +1,6 @@
 WIW Hackathon Backend 
 
-# ## How to start in local env 
+## How to start in local env 
 first you should create .env 
 ```
 MONGODB_URI=
